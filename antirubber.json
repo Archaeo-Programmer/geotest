@@ -1,6 +1,6 @@
 {
     "width": 2000,
-    "placesstring": "College Hall, another field, greenhouse, clock tower, nice walk, green space, big building, gate way",
+    "placesstring": "College Hall, another field, greenhouse, Bryan Hall and Clock Tower, nice walk, green space, Carpenter Hall, gate way",
     "imgururl": "https://i.imgur.com/5lMrk1i.jpg",
     "height": 1347,
     "places": [
@@ -20,7 +20,7 @@
         "x": 1272
       },
       {
-        "name": "clock tower",
+        "name": "Bryan Hall and Clock Tower",
         "y": 994,
         "x": 784
       },
@@ -35,7 +35,7 @@
         "x": 714
       },
       {
-        "name": "big building",
+        "name": "Carpenter Hall",
         "y": 676,
         "x": 1196
       },
