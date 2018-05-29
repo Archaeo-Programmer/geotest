@@ -1,13 +1,13 @@
 {
     "width": 2000,
-    "placesstring": "field, another field, greenhouse, clock tower, nice walk, green space, big building, gate way",
+    "placesstring": "College Hall, another field, greenhouse, clock tower, nice walk, green space, big building, gate way",
     "imgururl": "https://i.imgur.com/5lMrk1i.jpg",
     "height": 1347,
     "places": [
       {
-        "name": "field",
-        "y": 1250,
-        "x": 908
+        "name": "College Hall",
+        "y": 1100,
+        "x": 1200
       },
       {
         "name": "another field",
